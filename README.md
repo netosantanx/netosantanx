@@ -6,7 +6,7 @@ const me = {
     age: 22,  
     location: 'Salvador, Bahia',  
     englishLevel: 'Basic, sufficient for some thinks, like this, and technical themes or ask for help',  
-    knowledgeIn: ['HTML', 'CSS', 'JS'],  
+    knowledgeIn: ['HTML', 'CSS', 'JS', 'Bootstrap'],  
     learning: ['JS', 'React'],  
     imInterestedIn: 'All things possible, i love technology. But now i need a job :) '  
   };  
